@@ -223,7 +223,7 @@
 **Відображення рекордів**:
 ![Table records](screens/records.jpg)
 
-**Відображення рекордів**:
+**Відображення лише рекордів простої складності**:
 ![Table records](screens/records_easy.jpg)
 
 ---
